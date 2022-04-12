@@ -1,3 +1,38 @@
-body{
-  background-color: blueviolet;
+/* CSS Selector reference: https://www.w3schools.com/cssref/css_selectors.asp */
+
+p {
+  background-color: purple;
+  color: white;
+  padding: 20px;
+}
+
+ul {
+  background-color: red;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+li {
+  background-color: purple;
+  color: white;
+}
+
+section {
+  background-color: chartreuse;
+  padding: 20px;
+  margin: 10px;
+}
+
+article {
+  background-color: chocolate;
+  padding: 20px;
+}
+
+a {
+  background-color: green;
+  color: white;
+}
+
+form > section {
+  background-color: aliceblue;
 }

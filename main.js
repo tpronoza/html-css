@@ -1,1 +1,2 @@
-console.log("HTML-CSS");
+// SNEAK PEEK
+// document.querySelector('article').innerHTML = 'From JS';
